@@ -1,1 +1,4 @@
 pipenv install termcolor
+
+
+work on progress for pytorch, see my pifile , may be later switched for gpu version
