@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
+
+[packages]
+numpy = "*"
+gym = "*"
+scipy = "*"
+matplotlib = "*"
+termcolor="*"
+more-itertools="*"
+
+[packages.9eb003f]
+file = "https://download.pytorch.org/whl/cpu/torch-1.9.0%2Bcpu-cp38-cp38-linux_x86_64.whl"
