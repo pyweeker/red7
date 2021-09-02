@@ -6,3 +6,5 @@ v36 shows stupid bots playing with random actions, each round the judge kills th
 v41  player zero is human
 
 v54 encoding state ok
+
+v58 short encoding with only last canvas recorded, dead players skiped
