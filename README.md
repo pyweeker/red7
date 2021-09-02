@@ -8,3 +8,4 @@ v41  player zero is human
 v54 encoding state ok
 
 v58 short encoding with only last canvas recorded, dead players skiped
+v63  take_decision() 
