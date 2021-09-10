@@ -13,6 +13,7 @@ v63  take_decision()
 
 v71 + gen12 : associating status with panorama actions, relative rewards are waiting for being evaluated by coming soon simulation
 
-v76 : instanciation Players from ai.state_binary_ascii; fake filling manually ai.states_actions_rewards such as 
+v76 : see EXPLORATION LOOP:
+instanciation Players from ai.state_binary_ascii; fake filling manually ai.states_actions_rewards such as 
 ai.states_actions_rewards {b'A1B2E3E4E5F0': {103: -1, 5004: 1}}
 
