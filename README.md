@@ -17,3 +17,4 @@ v76 : see EXPLORATION LOOP:
 instanciation Players from ai.state_binary_ascii; fake filling manually ai.states_actions_rewards such as 
 ai.states_actions_rewards {b'A1B2E3E4E5F0': {103: -1, 5004: 1}}
 
+v77 decoding action
