@@ -18,3 +18,5 @@ instanciation Players from ai.state_binary_ascii; fake filling manually ai.state
 ai.states_actions_rewards {b'A1B2E3E4E5F0': {103: -1, 5004: 1}}
 
 v77 decoding action
+
+v87 buggy, backup before trying a defaultdic for filling up ai.states_actions_rewards
