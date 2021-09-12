@@ -24,3 +24,4 @@ v87 buggy, backup before trying a defaultdic for filling up ai.states_actions_re
 v90 + gen14 : Save pickle defaultdict ai.states_actions_rewards : 1120 states for two players, height first cards, one card on each palette, three cards in hand for player zero : data.pickle takes already 85,2 KiB (87 209 octets) ; can not save with json format due to TYPEERROR keys must be str, int, float, bool or None, not bytes ; could save on txt or .py but will be heavy and slower.
 
 v92 timeit problem
+v95 Memory saturation , processus halted => try use generators instead of lists
