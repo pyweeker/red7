@@ -26,3 +26,5 @@ v90 + gen14 : Save pickle defaultdict ai.states_actions_rewards : 1120 states fo
 v92 timeit problem
 
 v95 Memory saturation , processus halted => try use generators instead of lists
+
+v100 : just select reward +1 solutions on each wave, no need brutforcing heavy dicts
