@@ -4,7 +4,7 @@
 # https://stackoverflow.com/questions/54165439/what-are-the-exact-color-names-available-in-pils-imagedraw/54165440
 # https://www.youtube.com/watch?v=rLZk7cWbycI  FONTS Linux
 
-# On linux you can find fronts for example here :  /usr/share/fonts/truetype/freefont
+# On linux you can find fonts for example here :  /usr/share/fonts/truetype/freefont
 
 from PIL import Image, ImageFont, ImageDraw, ImageEnhance
 import os
