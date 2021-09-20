@@ -30,4 +30,5 @@ v95 Memory saturation , processus halted => try use generators instead of lists
 v100 : just select reward +1 solutions on each wave, no need brutforcing heavy dicts
 
 with simple_card_maker.py you can use PIL to draw and save JPEG or PNG files for your cards.
+
 make49.py draws card with names such as 49.jpeg
