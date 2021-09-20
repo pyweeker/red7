@@ -32,3 +32,5 @@ v100 : just select reward +1 solutions on each wave, no need brutforcing heavy d
 with simple_card_maker.py you can use PIL to draw and save JPEG or PNG files for your cards.
 
 make49.py draws card with names such as 49.jpeg
+
+mysol.py is a variant of solitaire example provided by arcade library, adapted here for 49 colored cards
